@@ -12,6 +12,7 @@ body{
     overflow: hidden;
     background-color: linear-gradient(
         to left top,
-        #d85d5d, 
-        #2b1f47);
+        rgb(214, 135, 135), 
+        rgb(91, 93, 160)
+        );
 }
